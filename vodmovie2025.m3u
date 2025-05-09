@@ -1,5 +1,26 @@
 #EXTM3U 
 
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/m9x1vIKGsuSTDOOicWxfbZDrgtv.jpg",American Wages (2025)
+https://cloud.hownetwork.xyz/xxx/IxUsPCwaFi9vJhYrJkN7anJKfGMyHBUlLg4vE3EGM24kHC12/32/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/8PmxsTT77KBlmT3OWyf3Q09yBOy.jpg",The Match (2025)
+https://cloud.hownetwork.xyz/xxx/NhAsYygYAyIqfEV8cQV7LycaLSIaISh0dzVAKnpVbw/32/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/AmHHUQigx9di1MATgtXQ49DKBeN.jpg",Broke (2025)
+https://cloud.hownetwork.xyz/xxx/IAomJSBURXFwZFo7JlIyNB0gFn8nTRFycTVP/32/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/qycPITRqXgPai7zj1gKffjCdSB5.jpg",Last Bullet (2025)
+https://cloud.hownetwork.xyz/xxx/Lhk6OmgbAi0uNANhcQBkbW8PLCwhFSgZHWVEKSYAZ2tw/32/480.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
+#EXTINF:-1 type="" group-title="MOVIES VOD 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/oXsDTDt1MqxJreROd2cbd2FMOZ2.jpg",Warfare (2025)
+https://cloud.hownetwork.xyz/xxx/NRk7KCQLEmxwYUV5bkczOiYUFhYaG0V2cmQTf3Y/32/480.m3u8
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:129.0) Gecko/20100101 Firefox/129.0
 #EXTINF:-1 type="" group-title="MOVIES VOD 2025" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/6wsAhLNqk03vOSPpv8UyKF2s49v.jpg",The Devil’s Hacksaw (2025)
 https://cloud.hownetwork.xyz/xxx/NhAsYyEcASguIlokIlM9KyMPZHx1S0JsNTQVKC9vDgdxQCorIU0Rdg/32/480.m3u8
