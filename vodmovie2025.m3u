@@ -1,3 +1,21 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>playlist</title>
+	</head>
+	
+    <style>
+        .hidden-link {
+            display: none;
+            }
+        .invisible-link {
+            visibility: hidden;
+        }
+ </style>
+<style>.hiddenx-link {
+
 #EXTM3U 
 
 
@@ -9741,3 +9759,11 @@ https://scvo.banesdulcielac.sbs/v4/ic/onrb99/cf-master.txt?v=1740635162|referer=
 #EXTINF:-1 type="" group-title="Indo Movie" tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/qs1eHTW1VjYwEKN5vfGeyC4793U.jpg",Dead Mine (2022)
 https://sxic.monkberga.sbs/v4/xq/5dney/cf-master.txt?v=1737323565|referer=https://ply.upns.one/&origin=https://ply.upns.one&user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 14) ExoPlayerLib/2.15.1
 
+}</style>
+
+<body bgcolor="FFFFFF">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="refresh" content="0;url=https://www.google.co.th/"> 
+</body>
+</html>
